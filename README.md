@@ -11,7 +11,7 @@ Account SID  &  Auth Token
 
 * Create .env file with next:
 TWILIO_ACCOUNT_SID=<Account SID retrieved above>
-TWILIO_AUTH_TOKEN=<Auth Token retrieved above>
+ and  TWILIO_AUTH_TOKEN=<Auth Token retrieved above>
 
 * How to run it:
 run it with:
